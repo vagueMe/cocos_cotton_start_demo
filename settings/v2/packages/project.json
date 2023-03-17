@@ -1,0 +1,30 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "UI_2D"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 2
+    }
+  },
+  "__version__": "1.0.4",
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    },
+    "material": {
+      "smart": true
+    }
+  },
+  "custom_joint_texture_layouts": []
+}
